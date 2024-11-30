@@ -9,6 +9,7 @@ The primary goal is to analyze and visualize the Electric Vehicle Population dat
 
 ### 1️ **Dataset Acquisition**
 - Source the Electric Vehicle Population dataset from Data.Gov.
+- [Electric Vehicle Population Data](https://catalog.data.gov/dataset/electric-vehicle-population-data)
 - Saved the dataset in a suitable format for easy manipulation with Python.
 
 ### 2️ **Data Preprocessing**
