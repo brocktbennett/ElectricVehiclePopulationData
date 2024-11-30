@@ -47,6 +47,7 @@ The primary goal is to analyze and visualize the Electric Vehicle Population dat
 
 ### 5️ **Document Findings**
 - Summarize key insights and observations from the dataset.
+![Bar Graph showing tesla leading the electric car production](image.png)
 - Highlight actionable conclusions based on the analysis.
 
 ---
