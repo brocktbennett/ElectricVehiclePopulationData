@@ -59,7 +59,7 @@ The primary goal is to analyze and visualize the Electric Vehicle Population dat
 
 ---
 
-## 🛠️ **Tools and Libraries**
+## **Tools and Libraries**
 - **Data Manipulation**: Pandas, NumPy
 - **Visualization**: Matplotlib, Seaborn, Plotly
 - **Notebook Hosting**: Jovian
@@ -67,7 +67,7 @@ The primary goal is to analyze and visualize the Electric Vehicle Population dat
 
 ---
 
-## 📈 **Expected Outcomes**
+## **Expected Outcomes**
 - A clean, well-documented dataset ready for analysis.
 - Insights into electric vehicle trends and patterns.
 - Interactive and static visualizations for clear storytelling.
